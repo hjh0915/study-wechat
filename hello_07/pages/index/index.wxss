@@ -1,0 +1,10 @@
+/**index.wxss**/
+.my-container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 15px;
+  box-sizing: border-box;
+} 

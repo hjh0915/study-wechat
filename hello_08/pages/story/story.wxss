@@ -1,0 +1,25 @@
+/**index.wxss**/
+.my-container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 15px;
+  box-sizing: border-box;
+} 
+
+.meta .avatar {
+  width: 20px;
+  height: 20px;
+  border-radius: 2px;
+  margin-right: 5px;
+}
+
+.content-image {
+  width: 100%;
+  height: auto;
+  border-radius: 2px;
+  display: block;
+  margin: 5px 0;
+}
